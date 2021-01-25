@@ -12,5 +12,5 @@ Here are the project images :
 
 
 This PCB is 2 layer.It has STM32F103C8T6 microcontroller , BMP180 digital pressure sensor , MPU6050 Six-Axis Gyro + Accelometer , micro SD Card Holder and also it has headers for XBEE Module ,Camera and Servo Motor.There is two LDO in design L7805 and LD108633.
-I made the schematic and pcb design of this project myself based on the Kazım Karakaş's course.
+I made the schematic and pcb design of this project myself based on the Kazım Karakaş's PCB design course.
 
